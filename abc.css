@@ -1,0 +1,46 @@
+h1 {
+  text-align: center;
+  font-size: 40px;
+  
+}
+.bg {
+  text-align: center;
+}
+
+body {
+  margin: auto;
+}
+.container {
+  width: 800px;
+  margin: auto;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.main .box {
+  width: 40%;
+  margin: auto;
+}
+
+
+h1 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+
+}
+.main-r .box {
+  margin-left: auto;
+}
+.main-y .box {
+
+}
+
+  
+h4 {
+  text-align: left;
+}
